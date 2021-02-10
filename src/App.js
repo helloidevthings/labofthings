@@ -1,9 +1,9 @@
-import "./App.css";
-import React, { Component } from "react";
+import React from "react";
 import theme from "./theme";
 import { ThemeProvider } from "@emotion/react";
 import AppStyles from "./App.styled.js";
 import GlobalStyles from "./Global.styled.js";
+import Router from "./Router";
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
             <p>My new app </p>
           </header>
         </div>
+        <Router />
       </AppStyles>
     </ThemeProvider>
   );
