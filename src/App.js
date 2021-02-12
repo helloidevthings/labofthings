@@ -12,7 +12,8 @@ function App() {
       <AppStyles>
         <div className="App">
           <header className="App-header">
-            <p>My new app </p>
+            <h1>Joyanna Hirst</h1>
+            <p>Under Construction</p>
           </header>
         </div>
         <Router />
