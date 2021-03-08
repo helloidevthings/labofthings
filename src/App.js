@@ -14,6 +14,9 @@ function App() {
           <header className="App-header">
             <h1>Joyanna Hirst</h1>
             <h3>Under Construction</h3>
+            <a href="https://www.joyanna.dev">
+              <h4>Portfolio</h4>
+            </a>
           </header>
         </div>
         <Router />
