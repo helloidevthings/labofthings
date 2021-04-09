@@ -13,7 +13,8 @@ function App() {
         <div className="App">
           <header className="App-header">
             <h1>Joyanna Hirst</h1>
-            <h3>Under Construction</h3>
+            <h2>Coming Soon</h2>
+
             <a href="https://www.joyanna.dev">
               <h4>Portfolio</h4>
             </a>
